@@ -15,11 +15,7 @@ class ProductController extends Controller
        return view('index',compact('products'));
     }
 
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
+    
     public function create()
     {
        return view('create');
