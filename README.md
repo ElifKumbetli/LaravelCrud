@@ -7,7 +7,7 @@ Bu proje, **Laravel** framework’ü ile geliştirilmiş basit bir CRUD (Create,
 - ✏️ **Ürün Güncelleme**  
 - 🗑️ **Ürün Silme**  
 - 🔍 **Ürünleri Listeleme**  
-- 🛠️ **Veritabanı İşlemleri (MySQL)**  
+- 🛠️ **Veritabanı İşlemleri**  
 
 ## 🔧 Kullanılan Teknolojiler  
 - **Laravel** – PHP framework  
@@ -20,8 +20,8 @@ Bu proje, **Laravel** framework’ü ile geliştirilmiş basit bir CRUD (Create,
 ### 📝 Ürün Listeleme  
 ![Ürün Listeleme](images/1.png)  
 
-### ➕ Ürün Ekleme  
+
 ![Ürün Ekleme](images/2.png)  
 
-### ❌ Ürün Silme  
+
 ![Ürün Silme](images/3.png)  
