@@ -18,10 +18,10 @@ Bu proje, **Laravel** framework’ü ile geliştirilmiş basit bir CRUD (Create,
 ## 📸 Ekran Görüntüleri  
 
 ### 📝 Ürün Listeleme  
-![Ürün Listeleme](1.png)  
+![Ürün Listeleme](images/1.png)  
 
 ### ➕ Ürün Ekleme  
-![Ürün Ekleme](2.png)  
+![Ürün Ekleme](images/2.png)  
 
 ### ❌ Ürün Silme  
-![Ürün Silme](3.png)  
+![Ürün Silme](images/3.png)  
